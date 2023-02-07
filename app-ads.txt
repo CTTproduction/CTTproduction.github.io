@@ -5,9 +5,6 @@ facebook.com, 738428474075542, RESELLER, с3e20eee3f780d68
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 
-#Facebook Ad Network
-facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
-
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
@@ -1903,6 +1900,7 @@ pubmatic.com,160080,RESELLER,5d62403b186f2ace
 
 #Index
 indexexchange.com, 201411, DIRECT, 50b1c356f2c5c8fc
+
 
 
 google.com, pub-7346018984356588, DIRECT, f08c47fec0942fa0
