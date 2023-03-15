@@ -5,6 +5,9 @@ facebook.com, 738428474075542, RESELLER, с3e20eee3f780d68
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 
+#Facebook Ad Network
+facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
+
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
@@ -798,6 +801,9 @@ criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
 exchange.admazing.co, AM3, RESELLER
+google.com, pub-4841966637114747, RESELLER
+google.com, pub-5039742115488639, RESELLER
+google.com, pub-7853853494796077, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -839,10 +845,8 @@ pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
-Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
-Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
@@ -873,6 +877,7 @@ spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 unity.com, 13003, DIRECT, 96cabb5fbdde37a7
@@ -982,6 +987,7 @@ freewheel.tv, 1138513, RESELLER
 yeahmobi.com, 5135347, Reseller
 media.net, 8CUO7P3WK, RESELLER
 App-stock.com,256917,RESELLER
+videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 
 
 #Applovin
@@ -1702,6 +1708,7 @@ axonix.com, 57264, RESELLER
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 
 #Tiktok
 oceanengine.com, 12885, DIRECT
@@ -1729,6 +1736,7 @@ advertising.com, 28650, RESELLER
 adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
+airnowplatform.com, 7000208, RESELLER
 algorix.co, 54236, RESELLER, 5b394c12fea27a1d
 algorix.co, 60082, RESELLER, 5b394c12fea27a1d
 algorix.co, 60086, RESELLER, 5b394c12fea27a1d
@@ -1747,6 +1755,9 @@ conversantmedia.com,100269,RESELLER,03113cd04947736d
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
 gitberry.com, 345100012, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 improvedigital.com, 2110, RESELLER
 indexexchange.com, 191572, RESELLER
 indexexchange.com, 194730, RESELLER
@@ -1754,6 +1765,7 @@ inmobi.com, 1e13a47050bc40e29ef24c145820180d, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 22e5354e453f49348325184e25464adb, Reseller, 83e75a7ae333ca9d
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
+instreamatic.com, 99, RESELLER
 loopme.com, 5176, RESELLER, 6c8d5f95897a5a3b
 mars.media, 103116, RESELLER
 mediaverse.ai, 302149932, RESELLER
@@ -1800,24 +1812,26 @@ sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, K6tB2uM1, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, pLL9cLon, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6018, RESELLER
+smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
+smartadserver.com,4210,RESELLER
 smartclip.net,12358,RESELLER
 smartclip.net,12422,RESELLER
 smartstream.tv,667,RESELLER
 startapp.com, inr, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 1234598, RESELLER, c25b2154543746ac
-triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 triplelift.com, 8844, RESELLER, 6c33edb13117fd86
-triplelift.com,10522,RESELLER,6c33edb13117fd86
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 undertone.com, 4102, RESELLER
 verve.com, 14592, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 649652654350370180, RESELLER
 video.unrulymedia.com,123476257,RESELLER
+video.unrulymedia.com,2613193077,RESELLER
 video.unrulymedia.com,7823643795310613975,RESELLER
 VideoHeroes.tv, 212504, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1001, RESELLER
+whildey.com,2129553945,RESELLER
 xad.com, 556, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13799, RESELLER
 xandr.com,13709,RESELLER
@@ -1941,7 +1955,6 @@ pubmatic.com,160080,RESELLER,5d62403b186f2ace
 
 #Index
 indexexchange.com, 201411, DIRECT, 50b1c356f2c5c8fc
-
 
 
 google.com, pub-7346018984356588, DIRECT, f08c47fec0942fa0
