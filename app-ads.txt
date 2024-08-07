@@ -25,7 +25,8 @@ facebook.com, 911489465574629, DIRECT, c3e20eee3f780d68
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 911489465574629, DIRECT, c3e20eee3f780d68
-
+pubwise.io, 22376824, DIRECT, c327c91a93a7cdd3
+pubmatic.com, 164282, RESELLER, 5d62403b186f2ace
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 911489465574629, DIRECT, c3e20eee3f780d68
