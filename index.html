@@ -1,102 +1,174 @@
 <!DOCTYPE html>
-<!--
-Template Name: Yammoe
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
--->
-<html lang="">
-<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<html lang="en">
 <head>
-<title>CTTproduction</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTT Production</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
 </head>
-<body id="top">
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="background-image:url('images/Untitled-1.png');"> 
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
- 
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <div id="pageintro" class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <article>
-      
-        <img src= images/icon.jpg >
-      
-      
-    </article>
-    <!-- ################################################################################################ -->
-  </div>
-  <!-- ################################################################################################ -->
+<body>
 
-<!-- End Top Background Image Wrapper -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
+    <!-- Custom Cursor -->
+    <div class="cursor-dot" id="cursor-dot"></div>
+    <div class="cursor-outline" id="cursor-outline"></div>
 
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- Bottom Background Image Wrapper -->
-  <div class="hoc clear"> 
-  <!-- ################################################################################################ -->
-    <div class="wrapper row4">
-      <footer id="footer" class="hoc clear"> 
-      <!-- ################################################################################################ -->
-      
-        
-       
-       
-    
-      <!-- ################################################################################################ -->
-      <hr class="btmspace-50">
-      <!-- ################################################################################################ -->
-      <nav>
-        <ul class="nospace">
-          <li><a href="#"><i class="fas fa-lg fa-home"></i></a></li>
-        
-          <li><a href="https://cttproduction.github.io/TermsandCondition.txt">Terms</a></li>
-          <li><a href="https://cttproduction.github.io/PrivacyPolicy.txt">Privacy</a></li>
-          <li><a href="mailto:atul20032006@gmail.com">ContactUs</a></li>
-        
-        </ul>
-      </nav>
-      <!-- ################################################################################################ -->
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-content">
+            <a href="#" class="logo">
+                <span class="logo-text">CTT</span>
+                <span class="logo-accent">Production</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#featured">Featured</a></li>
+                <li><a href="#portfolio">Games</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="hero">
+        <div class="glow-bg"></div>
+        <div class="container hero-content">
+            <div class="hero-text fade-up">
+                <h1 class="hero-title">Crafting <span class="highlight">Joy</span>, <br>One Game at a Time.</h1>
+                <p class="hero-subtitle">Based in India. Over 4 Million+ downloads globally. We make idle, simulation, and arcade games that captivate and entertain.</p>
+                <div class="hero-cta">
+                    <a href="#portfolio" class="btn btn-primary">Our Games <i data-lucide="arrow-right"></i></a>
+                    <a href="https://play.google.com/store/apps/dev?id=7472459166510457223&hl=en" target="_blank" class="btn btn-secondary">Play Store <i data-lucide="external-link"></i></a>
+                </div>
+            </div>
+            
+            <div class="hero-visual fade-in">
+                <div class="floating-element glass-card el-1">
+                    <i data-lucide="gamepad-2" class="float-icon"></i>
+                    <span>Arcade</span>
+                </div>
+                <div class="floating-element glass-card el-2">
+                    <i data-lucide="coins" class="float-icon"></i>
+                    <span>Idle</span>
+                </div>
+                <div class="floating-element glass-card el-3">
+                    <i data-lucide="sparkles" class="float-icon"></i>
+                    <span>Simulation</span>
+                </div>
+                <!-- Main central abstract graphic -->
+                <div class="hero-orb"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Featured Game Section -->
+    <section class="featured" id="featured">
+        <div class="container">
+            <div class="section-header fade-up">
+                <h2 class="section-title">Our <span class="highlight">Flagship</span></h2>
+                <p class="section-desc">Over 3 Million players have built their empire. Will you?</p>
+            </div>
+            
+            <div class="featured-card glass-card fade-up">
+                <div class="featured-image">
+                    <img src="https://play-lh.googleusercontent.com/WZcy0P8TI9aD3LMjEE8Bys37CvcU05NhjyC169cNoSgXs00EcjwP1_R-EEQrPVda1-s=s512-rw" alt="Money Maker Idle Icon">
+                </div>
+                <div class="featured-info">
+                    <div class="featured-badge">Top Hit</div>
+                    <h3 class="featured-title">Money Maker Idle</h3>
+                    <p class="featured-desc">Become the ultimate tycoon! Build your business, hire managers, and watch the cash flow in this highly addictive idle simulation.</p>
+                    
+                    <div class="featured-stats">
+                        <div class="stat-item">
+                            <span class="stat-val">3M+</span>
+                            <span class="stat-label">Downloads</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-val">4.5<i data-lucide="star" class="star-icon"></i></span>
+                            <span class="stat-label">Rating</span>
+                        </div>
+                    </div>
+                    
+                    <a href="https://play.google.com/store/apps/details?id=com.CTT.MoneyMakerIdle" target="_blank" class="btn btn-primary btn-large">
+                        Play For Free <i data-lucide="play"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section class="portfolio" id="portfolio">
+        <div class="container">
+            <div class="section-header fade-up">
+                <h2 class="section-title">The <span class="highlight">Portfolio</span></h2>
+                <p class="section-desc">Explore our diverse collection of games designed for endless fun.</p>
+            </div>
+            
+            <div class="games-grid" id="games-grid">
+                <!-- Dynamically populated via JS, but added statically for SEO + fallback -->
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container container-sm text-center fade-up">
+            <h2 class="section-title">About <span class="highlight">CTT Production</span></h2>
+            <p class="about-text">
+                We are an independent game studio based in India. With a passion for creating satisfying mechanics, rich tycoon experiences, and relaxing ASMR games, our mission is to bring joy to millions of players worldwide. 
+            </p>
+            <div class="about-milestones">
+                <div class="glass-card sm-milestone">
+                    <span class="ms-num">13+</span>
+                    <span class="ms-label">Titles</span>
+                </div>
+                <div class="glass-card sm-milestone">
+                    <span class="ms-num">4M+</span>
+                    <span class="ms-label">Players Global</span>
+                </div>
+                <div class="glass-card sm-milestone">
+                    <span class="ms-num">100%</span>
+                    <span class="ms-label">Passion</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h2>CTT <span class="highlight">Production</span></h2>
+                <p>Crafting idle and simulation experiences.</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://cttproduction.github.io/TermsandCondition.txt">Terms & Conditions</a>
+                <span class="divider">•</span>
+                <a href="https://cttproduction.github.io/PrivacyPolicy.txt">Privacy Policy</a>
+                <span class="divider">•</span>
+                <a href="mailto:atul20032006@gmail.com">Contact Us</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 CTT Production. All Rights Reserved.</p>
+        </div>
     </footer>
-  </div>
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <div class="wrapper row5">
-    <div id="copyright" class="hoc clear"> 
-      <!-- ################################################################################################ -->
-      <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - <a href="#">CTTproduction</a></p>
-    
-      <!-- ################################################################################################ -->
-    </div>
-  </div>
-  <!-- ################################################################################################ -->
-</div>
-</div>
-<!-- End Bottom Background Image Wrapper -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
-<!-- JAVASCRIPTS -->
-<script src="layout/scripts/jquery.min.js"></script>
-<script src="layout/scripts/jquery.backtotop.js"></script>
-<script src="layout/scripts/jquery.mobilemenu.js"></script>
+
+    <!-- JS -->
+    <script src="main.js"></script>
+    <script>
+      // Initialize Lucide Icons
+      lucide.createIcons();
+    </script>
 </body>
 </html>
