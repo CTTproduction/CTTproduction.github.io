@@ -3,7 +3,7 @@ google.com, pub-7346018984356588, DIRECT, f08c47fec0942fa0
 #Appodeal
 
 appodeal.com, 109835, DIRECT
-
+moloco.com, rC98z4bTVxQyD4nc, DIREC
 #BidMachine
 
 bidmachine.io,1,DIRECT
