@@ -9107,3 +9107,8 @@ trustedstack.com, TS677PGY3, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 
 axonix.com, 59204, RESELLER
+
+appodeal.com, 253504, DIRECT
+google.com, pub-7600792684276223, DIRECT, f08c47fec0942fa0
+applovin.com, 12211523f96c3b46a9fe1ec25f8db6ac, DIRECT
+rhebus.works, 9019999555, RESELLER
