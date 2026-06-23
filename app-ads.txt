@@ -9112,3 +9112,4 @@ appodeal.com, 253504, DIRECT
 google.com, pub-7600792684276223, DIRECT, f08c47fec0942fa0
 applovin.com, 12211523f96c3b46a9fe1ec25f8db6ac, DIRECT
 rhebus.works, 9019999555, RESELLER
+facebook.com, 3822508371411671, DIRECT, c3e20eee3f780d68
