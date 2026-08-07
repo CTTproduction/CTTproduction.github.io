@@ -180,17 +180,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     crazyGames.forEach((game, index) => {
         const card = document.createElement('article');
-        card.className = 'crazygame-card glass-card fade-up';
+        card.className = 'crazygame-card fade-up';
         card.style.transitionDelay = `${index * 0.06}s`;
         card.innerHTML = `
-            <img src="${game.icon}" alt="${game.title} game icon" class="crazygame-icon" loading="lazy">
+            <div class="crazygame-art">
+                <img src="${game.icon}" alt="${game.title} game icon" class="crazygame-icon" loading="lazy">
+                <span class="crazygame-number">${String(index + 1).padStart(2, '0')}</span>
+            </div>
             <div class="crazygame-info">
                 <h3>${game.title}</h3>
-                <span>Play free in your browser</span>
+                <span>Browser game</span>
             </div>
             <a href="${game.link}" target="_blank" rel="noopener noreferrer" class="btn crazygames-btn">
-                <img src="https://imgs.crazygames.com/favicons/favicon-transparent.png?quality=95&metadata=none&width=32&height=32&fit=crop" alt="" class="crazygames-btn-icon">
                 Play Now
+                <i data-lucide="arrow-up-right"></i>
             </a>
         `;
         crazyGamesGrid.appendChild(card);
