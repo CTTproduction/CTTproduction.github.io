@@ -207,6 +207,29 @@ body.hover-active .cursor-outline {
     color: var(--text);
 }
 
+.nav-links .nav-crazygames {
+    align-items: center;
+    background: rgba(112, 67, 255, 0.14);
+    border: 1px solid rgba(157, 124, 255, 0.35);
+    border-radius: 10px;
+    color: #d9ceff;
+    display: flex;
+    gap: 7px;
+    margin-top: -9px;
+    padding: 8px 12px;
+}
+
+.nav-crazygames img {
+    height: 20px;
+    width: 20px;
+}
+
+.nav-links .nav-crazygames:hover {
+    background: rgba(112, 67, 255, 0.28);
+    border-color: #9d7cff;
+    color: #fff;
+}
+
 /* Hero Section */
 .hero {
     position: relative;
@@ -256,6 +279,19 @@ body.hover-active .cursor-outline {
 .hero-cta {
     display: flex;
     gap: 16px;
+    flex-wrap: wrap;
+}
+
+.btn-crazygames-hero {
+    background: linear-gradient(135deg, #7c55ff, #5421d6);
+    border: 1px solid rgba(190, 171, 255, 0.38);
+    box-shadow: 0 6px 26px rgba(101, 53, 232, 0.36);
+    color: #fff;
+}
+
+.btn-crazygames-hero:hover {
+    box-shadow: 0 10px 34px rgba(126, 82, 255, 0.58);
+    transform: translateY(-2px);
 }
 
 .hero-visual {
@@ -445,6 +481,179 @@ section {
     padding: 10px 0;
 }
 
+.game-actions {
+    display: grid;
+    gap: 10px;
+    width: 100%;
+    margin-top: auto;
+}
+
+.game-actions .game-link-btn {
+    margin-top: 0;
+}
+
+/* CrazyGames */
+.crazygames {
+    position: relative;
+    background:
+        linear-gradient(180deg, rgba(112, 67, 255, 0.08), transparent 28%),
+        radial-gradient(circle at 50% 0%, rgba(89, 49, 190, 0.3), transparent 60%);
+    border-bottom: 1px solid rgba(157, 124, 255, 0.12);
+    border-top: 1px solid rgba(157, 124, 255, 0.12);
+}
+
+.crazygames::before {
+    background: linear-gradient(90deg, transparent, #815cff, transparent);
+    content: '';
+    height: 2px;
+    left: 15%;
+    opacity: 0.75;
+    position: absolute;
+    right: 15%;
+    top: -1px;
+}
+
+.crazygames-header {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 48px;
+}
+
+.crazygames-brand {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.crazygames-brand > img {
+    width: 68px;
+    height: 68px;
+    object-fit: contain;
+    filter: drop-shadow(0 8px 24px rgba(112, 67, 255, 0.45));
+}
+
+.crazygames-brand .section-title {
+    margin: 0;
+}
+
+.crazygames-eyebrow {
+    display: block;
+    color: #bdaaff;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.crazy-highlight {
+    color: #9d7cff;
+}
+
+.crazygames-header .section-desc {
+    max-width: 420px;
+    text-align: right;
+}
+
+.crazygames-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.crazygames-callout {
+    align-items: center;
+    background: linear-gradient(110deg, rgba(112, 67, 255, 0.2), rgba(255, 255, 255, 0.035));
+    border-color: rgba(157, 124, 255, 0.3);
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 28px;
+    padding: 20px 22px;
+}
+
+.crazygames-callout-copy {
+    align-items: center;
+    display: flex;
+    gap: 14px;
+}
+
+.crazygames-callout-copy strong,
+.crazygames-callout-copy span {
+    display: block;
+}
+
+.crazygames-callout-copy strong {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.08rem;
+    margin-bottom: 3px;
+}
+
+.crazygames-callout-copy div > span {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.live-dot {
+    background: #9d7cff;
+    border-radius: 50%;
+    box-shadow: 0 0 0 6px rgba(157, 124, 255, 0.12), 0 0 18px #815cff;
+    flex: 0 0 auto;
+    height: 10px;
+    width: 10px;
+}
+
+.crazygames-home-link {
+    flex: 0 0 auto;
+}
+
+.crazygame-card {
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    gap: 18px;
+    align-items: center;
+    padding: 18px;
+}
+
+.crazygame-icon {
+    width: 72px;
+    height: 72px;
+    border-radius: 16px;
+    object-fit: cover;
+    grid-row: span 2;
+}
+
+.crazygame-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 4px;
+}
+
+.crazygame-info span {
+    color: var(--text-muted);
+    font-size: 0.86rem;
+}
+
+.crazygames-btn {
+    background: linear-gradient(135deg, #7043ff, #5325d9);
+    color: #fff;
+    justify-content: center;
+    padding: 11px 18px;
+}
+
+.crazygames-btn:hover {
+    background: linear-gradient(135deg, #8059ff, #6437e8);
+    box-shadow: 0 8px 24px rgba(112, 67, 255, 0.38);
+    transform: translateY(-2px);
+}
+
+.crazygames-btn-icon {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+}
+
 .game-card:hover .game-link-btn {
     opacity: 1;
     transform: translateY(0);
@@ -603,5 +812,30 @@ section {
     .game-link-btn {
         opacity: 1;
         transform: none;
+    }
+
+    .crazygames-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .crazygames-header .section-desc {
+        text-align: left;
+    }
+
+    .crazygames-callout {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .crazygames-home-link {
+        width: 100%;
+    }
+}
+
+@media (max-width: 520px) {
+    .hero-cta .btn {
+        justify-content: center;
+        width: 100%;
     }
 }

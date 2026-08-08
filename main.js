@@ -65,16 +65,19 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Spa Empire",
             link: "https://play.google.com/store/apps/details?id=com.CTT.myperfectspa",
+            crazyGamesLink: "https://www.crazygames.com/game/spa-tycoon",
             icon: "https://play-lh.googleusercontent.com/dHsZ07mVkq6lMlIfO1ClPwoCf_oO3XK9zgrLD9oRXSyN_gASG2xbfPEX7JFvPQEa3w=s512-rw"
         },
         {
             title: "Base Defense: Survival",
             link: "https://play.google.com/store/apps/details?id=com.CTT.zombiesurvivor",
+            crazyGamesLink: "https://www.crazygames.com/game/base-defence",
             icon: "https://play-lh.googleusercontent.com/PDCRzBlSZoEI_XCeRdGBgtyvhMF7Fqw7KxOTCw3hGkUyL8w5-0F-FQjy-1vkEzKa8A=s512-rw"
         },
         {
             title: "Make Up Hole",
             link: "https://play.google.com/store/apps/details?id=com.CTTproduction.MakeupHole",
+            crazyGamesLink: "https://www.crazygames.com/game/make-up-hole",
             icon: "https://play-lh.googleusercontent.com/sylJTkFCj0unnlhnfhVypl6yGeZgzFmejfHf0g06egvwDCII6qbk9JGBlRfX8bCcLpM4-hKYh7l2892px-5d=s512-rw"
         },
         {
@@ -110,6 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Gun Master",
             link: "https://play.google.com/store/apps/details?id=com.CTT.GunMaster",
+            crazyGamesLink: "https://www.crazygames.com/game/gun-master-3d---fps-shooting-game",
             icon: "https://play-lh.googleusercontent.com/7v8Dc9-yH34tDjCQQBEDLVwRWcRwRiG1DmFqU5MWmsYeWmp_NxMhqWmdSgIC-z2Il5Q=s512-rw"
         },
         {
@@ -124,15 +128,72 @@ document.addEventListener('DOMContentLoaded', () => {
         card.className = 'game-card glass-card fade-up';
         card.style.transitionDelay = `${index * 0.05}s`;
 
+        const crazyGamesButton = game.crazyGamesLink ? `
+            <a href="${game.crazyGamesLink}" target="_blank" rel="noopener noreferrer" class="btn crazygames-btn game-link-btn">
+                <img src="https://imgs.crazygames.com/favicons/favicon-transparent.png?quality=95&metadata=none&width=32&height=32&fit=crop" alt="" class="crazygames-btn-icon">
+                Play Now
+            </a>
+        ` : '';
+
         card.innerHTML = `
             <img src="${game.icon}" alt="${game.title} Icon" class="game-icon" loading="lazy">
             <h3 class="game-title">${game.title}</h3>
-            <a href="${game.link}" target="_blank" class="btn btn-secondary game-link-btn">
+            <div class="game-actions">
+            <a href="${game.link}" target="_blank" rel="noopener noreferrer" class="btn btn-secondary game-link-btn">
                 Get it <i data-lucide="download"></i>
             </a>
+            ${crazyGamesButton}
+            </div>
         `;
 
         gamesGrid.appendChild(card);
+    });
+
+    const crazyGamesGrid = document.getElementById('crazygames-grid');
+    const crazyGames = [
+        {
+            title: "Base Defence",
+            link: "https://www.crazygames.com/game/base-defence",
+            icon: "https://play-lh.googleusercontent.com/PDCRzBlSZoEI_XCeRdGBgtyvhMF7Fqw7KxOTCw3hGkUyL8w5-0F-FQjy-1vkEzKa8A=s512-rw"
+        },
+        {
+            title: "TNT Bomber",
+            link: "https://www.crazygames.com/game/tnt-bomber",
+            icon: "https://imgs.crazygames.com/tnt-bomber_1x1/20260604025027/tnt-bomber_1x1-cover?format=auto&quality=85&metadata=none&width=512"
+        },
+        {
+            title: "Spa Tycoon",
+            link: "https://www.crazygames.com/game/spa-tycoon",
+            icon: "https://play-lh.googleusercontent.com/dHsZ07mVkq6lMlIfO1ClPwoCf_oO3XK9zgrLD9oRXSyN_gASG2xbfPEX7JFvPQEa3w=s512-rw"
+        },
+        {
+            title: "Make Up Hole",
+            link: "https://www.crazygames.com/game/make-up-hole",
+            icon: "https://play-lh.googleusercontent.com/sylJTkFCj0unnlhnfhVypl6yGeZgzFmejfHf0g06egvwDCII6qbk9JGBlRfX8bCcLpM4-hKYh7l2892px-5d=s512-rw"
+        },
+        {
+            title: "Gun Master 3D",
+            link: "https://www.crazygames.com/game/gun-master-3d---fps-shooting-game",
+            icon: "https://play-lh.googleusercontent.com/7v8Dc9-yH34tDjCQQBEDLVwRWcRwRiG1DmFqU5MWmsYeWmp_NxMhqWmdSgIC-z2Il5Q=s512-rw"
+        }
+    ];
+
+    crazyGames.forEach((game, index) => {
+        const card = document.createElement('article');
+        card.className = 'crazygame-card glass-card fade-up';
+        card.style.transitionDelay = `${index * 0.06}s`;
+        card.innerHTML = `
+            <img src="${game.icon}" alt="${game.title} game icon" class="crazygame-icon" loading="lazy">
+            <div class="crazygame-info">
+                <h3>${game.title}</h3>
+                <span>Play free in your browser</span>
+            </div>
+            <a href="${game.link}" target="_blank" rel="noopener noreferrer" class="btn crazygames-btn">
+                <img src="https://imgs.crazygames.com/favicons/favicon-transparent.png?quality=95&metadata=none&width=32&height=32&fit=crop" alt="" class="crazygames-btn-icon">
+                Play Now
+            </a>
+        `;
+        crazyGamesGrid.appendChild(card);
     });
 
     // Re-initialize Lucide icons for dynamically added content
