@@ -9193,3 +9193,5 @@ video.unrulymedia.com, 389957698, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 vidoomy.com, 8953515, RESELLER
 zetaglobal.net, 525, RESELLER
+media.net, 8cusc3uj7, RESELLER
+themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
