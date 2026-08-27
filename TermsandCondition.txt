@@ -1,20 +1,160 @@
-﻿Terms & Conditions
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Atul kumar.
-Atul kumar is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
- this app app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that this app app won’t work properly or at all.
-The app does use third party services that declare their own Terms and Conditions.
-Link to Terms and Conditions of third party service providers used by the app
-* Google Play Services
-* Unity
+TERMS AND CONDITIONS
 
+Last updated: August 27, 2026
+Effective date: August 27, 2026
 
-You should be aware that there are certain things that Atul kumar will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Atul kumar cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
-If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
-Along the same lines, Atul kumar cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Atul kumar cannot accept responsibility.
-With respect to Atul kumar’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Atul kumar accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Atul kumar does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
-Changes to This Terms and Conditions
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
-These terms and conditions are effective as of 2021-01-13
-Contact Us
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at atul20032006@gmail.com.
+These Terms and Conditions ("Terms") govern your access to and use of the mobile games, browser games, websites, and related services published by CTT Production ("CTT Production," "we," "us," or "our"), collectively called the "Services."
+
+By downloading, installing, accessing, or using a Service, you agree to these Terms and our Privacy Policy at https://cttproduction.github.io/PrivacyPolicy.txt. If you do not agree, do not use the Services. Additional platform or feature-specific terms may apply and will be presented where relevant.
+
+1. ELIGIBILITY AND CHILDREN
+
+The Services are intended for a general audience and are not directed to children under 13. You must be at least 13 years old to use the Services. If the law where you live requires you to be older to agree to these Terms or consent to data processing, you must meet that higher age or use the Services only with the authorization and supervision of a parent or legal guardian, as permitted by law.
+
+If you are a parent or guardian who allows a minor to use the Services, you are responsible for supervising that use, including any purchases, advertising interactions, and compliance with these Terms.
+
+2. LICENSE TO USE THE SERVICES
+
+Subject to these Terms, CTT Production grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, and revocable license to install and use the Services for your own lawful, non-commercial entertainment.
+
+The Services are licensed, not sold. CTT Production and its licensors retain all rights not expressly granted to you.
+
+3. ACCEPTABLE USE
+
+You must not:
+
+• copy, sell, rent, distribute, sublicense, publicly display, or commercially exploit any part of a Service except where we expressly permit it;
+• modify, translate, reverse engineer, decompile, disassemble, derive source code from, or create derivative works from a Service, except to the limited extent applicable law expressly permits;
+• circumvent security, access controls, advertising, purchase verification, game rules, or technical limitations;
+• use cheats, bots, automation, exploits, modified clients, unauthorized software, or other methods that interfere with normal gameplay or provide an unfair advantage;
+• manipulate ad impressions, clicks, rewards, attribution, purchases, rankings, scores, or game progress;
+• disrupt servers, networks, or another user's experience, or introduce malware or harmful code;
+• access or attempt to access data, accounts, systems, or features without authorization;
+• impersonate another person or misrepresent your affiliation;
+• use the Services to violate any law, regulation, intellectual-property right, privacy right, or other person's rights; or
+• encourage or assist another person to do any of the above.
+
+We may investigate suspected violations and restrict or terminate access where reasonably necessary to protect the Services, users, advertising partners, or third parties.
+
+4. ACCOUNTS, DEVICES, AND GAME PROGRESS
+
+Most of our games may be used without a CTT Production account. Some features may rely on your device, an app-store account, a platform account, local storage, cloud services, or a third-party sign-in service.
+
+You are responsible for securing your device and relevant accounts. Do not share credentials. Game progress or settings stored only on a device may be lost if you uninstall a game, clear its data, change devices, reset the device, or experience a technical failure. Unless a Service expressly offers cloud saving, we do not guarantee that progress can be restored.
+
+Using a rooted, jailbroken, modified, or unsupported device may expose your device to security risks and may cause the Services to function incorrectly. We are not responsible for problems caused by unauthorized device or software modifications.
+
+5. ADVERTISING AND MEDIATION
+
+The Services may be supported by advertising, including banner, interstitial, native, and rewarded advertisements. We use Google AdMob as an advertising platform and mediator and may use third-party advertising SDK adapters, including Liftoff Monetize (formerly Vungle), Unity Ads or Unity LevelPlay technologies, and other mediated ad sources.
+
+Mediation allows multiple advertising sources to compete or be selected to provide an ad. Advertisements and advertiser offers are provided by third parties. CTT Production does not endorse, control, or guarantee an advertised product, service, statement, destination, availability, or transaction. If you interact or transact with an advertiser, that relationship is between you and the advertiser, subject to applicable consumer law.
+
+Rewarded advertisements provide an in-game benefit after the applicable ad provider reports a qualifying completion. Rewards have no cash value. A reward may not be granted if an ad is closed early, interrupted, unavailable, or not reported as complete. We may correct rewards produced by technical errors, fraud, exploits, or manipulated advertising activity.
+
+Our apps use a GDPR consent flow for users in applicable regions. Where required by law, the apps request your choice before using information for personalized advertising or related purposes. You can use the available in-app privacy or consent settings to review or change that choice. Declining personalized advertising may result in contextual or non-personalized ads and does not necessarily reduce the number of ads.
+
+Advertising and privacy practices are explained in our Privacy Policy. Third-party advertising providers also apply their own terms and privacy policies.
+
+6. IN-APP PURCHASES AND VIRTUAL ITEMS
+
+Some Services may offer paid features, virtual currency, consumable items, ad removal, subscriptions, or other digital content (collectively, "Virtual Items"). Purchases are processed by the applicable app store or payment platform and are also subject to its terms.
+
+Virtual Items are licensed, not sold. They are limited to the relevant Service, have no real-world monetary value, cannot be exchanged for cash or property, and cannot be transferred except where a Service expressly permits it. We may manage, regulate, modify, or discontinue Virtual Items as reasonably necessary to operate or update a Service, subject to applicable law.
+
+Prices and available offers may vary by country, platform, currency, taxes, or promotional period. Review the displayed price and purchase details before confirming. Refunds, cancellations, and subscription management are handled according to the app store's rules and applicable law. We cannot directly issue a refund for a transaction controlled solely by an app store unless that platform provides us the ability to do so.
+
+You are responsible for purchases made through your device or account, including obtaining permission from the bill payer. Parents and guardians should configure device purchase authentication and family controls where appropriate.
+
+7. THIRD-PARTY SERVICES AND LINKS
+
+The Services may integrate with or link to app stores, browser-game platforms, advertisements, analytics services, social features, websites, and other third-party services. Their terms and privacy policies apply to their services. We do not control and are not responsible for third-party content, availability, security, products, or practices.
+
+Relevant third-party terms may include:
+
+• Google Play Terms of Service: https://play.google.com/about/play-terms/
+• Google Terms of Service: https://policies.google.com/terms
+• Unity Terms of Service: https://unity.com/legal/terms-of-service
+• Liftoff Terms: https://liftoff.ai/terms/
+
+This list is provided for convenience and is not exhaustive. The platform from which you obtained a Service may impose additional terms.
+
+8. PRIVACY
+
+Our Privacy Policy explains how information is collected, used, shared, and protected, including information processed through Google AdMob mediation, Liftoff, Unity, Firebase, and other SDKs or providers. It also describes consent controls and privacy rights:
+
+https://cttproduction.github.io/PrivacyPolicy.txt
+
+By using the Services, you acknowledge that information will be handled as described in the Privacy Policy. Consent is requested separately where required by law and is not made a condition of accepting these Terms unless the relevant processing is necessary to provide a requested Service.
+
+9. INTELLECTUAL PROPERTY
+
+The Services and their software, gameplay systems, graphics, artwork, animation, audio, text, characters, names, logos, trademarks, interfaces, databases, and other content are owned by or licensed to CTT Production and are protected by applicable intellectual-property laws.
+
+You may not use CTT Production's names, branding, artwork, or other protected materials outside normal use of the Services without prior written permission. Third-party names, logos, advertisements, and content remain the property of their respective owners.
+
+If you believe content in a Service infringes your intellectual-property rights, contact us with identification of the work, the allegedly infringing material, your contact information, and a good-faith explanation of your claim.
+
+10. FEEDBACK AND COMMUNICATIONS
+
+If you voluntarily send ideas, suggestions, or feedback, you grant CTT Production a worldwide, perpetual, irrevocable, royalty-free, transferable, and sublicensable license to use, reproduce, adapt, publish, and otherwise exploit that feedback without compensation or obligation to you. This does not give us ownership of personal information contained in a support request; personal information remains governed by our Privacy Policy.
+
+11. UPDATES, AVAILABILITY, AND CHANGES
+
+We may update, rebalance, repair, modify, suspend, or discontinue all or part of a Service. Updates may be required for continued use. Device, browser, operating-system, storage, network, or platform requirements may change.
+
+We do not guarantee that a Service, feature, advertisement, online function, or item will always be available, uninterrupted, compatible, or error-free. Scheduled or emergency maintenance, provider failures, legal requirements, security issues, or business decisions may affect availability.
+
+You are responsible for maintaining a compatible device, sufficient storage, a charged battery, and an internet connection where required. Your network provider may charge data, roaming, or other fees, which are your responsibility.
+
+12. SUSPENSION AND TERMINATION
+
+You may stop using a Service at any time and may uninstall it from your device.
+
+We may suspend, restrict, or terminate access if you materially or repeatedly violate these Terms; create a security, legal, fraud, or safety risk; misuse advertising or purchases; or where a platform, law, or service closure requires it. Where reasonably practicable and legally required, we will provide appropriate notice.
+
+When your access ends, the license granted under these Terms ends and you must stop using the affected Service. Provisions that by their nature should survive termination will survive, including intellectual-property, disclaimers, liability limitations, dispute terms, and accrued obligations.
+
+13. DISCLAIMERS
+
+To the maximum extent permitted by applicable law, the Services are provided "as is" and "as available." CTT Production disclaims implied warranties and conditions, including merchantability, fitness for a particular purpose, title, non-infringement, accuracy, availability, and quiet enjoyment.
+
+We do not promise that the Services will meet every requirement, be continuously available, be free of errors or harmful components, preserve game progress, or remain compatible with every device or operating-system version. Nothing in these Terms excludes warranties or consumer rights that cannot lawfully be excluded.
+
+14. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, CTT Production and its owners, team members, licensors, and service providers will not be liable for indirect, incidental, special, exemplary, punitive, or consequential losses, or for loss of data, progress, profits, revenue, goodwill, or business opportunity arising from or relating to the Services.
+
+To the maximum extent permitted by law, CTT Production's aggregate liability for claims relating to a Service will not exceed the greater of (a) the amount you paid directly for that Service during the 12 months before the event giving rise to the claim or (b) INR 1,000.
+
+These limitations do not apply where liability cannot legally be excluded or limited, including any liability for fraud, wilful misconduct, or other rights protected by mandatory consumer law.
+
+15. INDEMNITY
+
+To the extent permitted by law, you agree to indemnify and hold harmless CTT Production and its owners, team members, and licensors from third-party claims, damages, and reasonable costs resulting from your unlawful use of the Services, your material breach of these Terms, or your infringement of another person's rights. This section does not require a consumer to indemnify us for our own unlawful conduct and does not limit non-waivable consumer rights.
+
+16. GOVERNING LAW AND DISPUTES
+
+These Terms are governed by the laws of India, without regard to conflict-of-law principles. Subject to mandatory consumer protections and any forum that applicable law requires, courts with jurisdiction in India will have jurisdiction over disputes relating to these Terms or the Services.
+
+Before starting formal proceedings, please contact us and allow a reasonable opportunity to resolve the issue informally. Nothing in these Terms prevents either party from seeking urgent injunctive relief or using a consumer-protection process available under applicable law.
+
+17. CHANGES TO THESE TERMS
+
+We may update these Terms to reflect changes to the Services, technology, providers, law, or business practices. We will publish the updated Terms at this location and revise the "Last updated" date. If a change materially affects your rights, we will provide additional notice where required by law. Continued use after revised Terms become effective constitutes acceptance to the extent permitted by law.
+
+18. GENERAL TERMS
+
+If a provision of these Terms is found unenforceable, it will be enforced to the greatest lawful extent and the remaining provisions will continue in effect. Our failure to enforce a provision is not a waiver. You may not assign your rights or obligations under these Terms without our written consent. We may assign these Terms as part of a reorganization, merger, acquisition, asset transfer, or by operation of law.
+
+These Terms, the Privacy Policy, and any additional terms presented for a specific Service form the entire agreement between you and CTT Production concerning that Service and replace prior terms on the same subject.
+
+19. CONTACT US
+
+Questions or concerns about these Terms may be sent to:
+
+CTT Production
+India
+Email: cttproductionpvtltd@gmail.com
+
+Please include the name of the relevant game or Service.

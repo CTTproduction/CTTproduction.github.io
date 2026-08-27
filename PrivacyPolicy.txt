@@ -1,62 +1,160 @@
-Privacy Policy
-CTT Production built this game as a Free app. This SERVICE is provided by CTT Production at no cost and is intended for use as is.
+PRIVACY POLICY
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Last updated: August 27, 2026
+Effective date: August 27, 2026
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy explains how CTT Production ("CTT Production," "we," "us," or "our") collects, uses, shares, and protects information when you use our mobile games, browser games, websites, and related services (collectively, the "Services"). CTT Production is an independent game studio based in India.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible unless otherwise defined in this Privacy Policy.
+Please read this Policy before using the Services. If you do not agree with it, please do not use the Services. A particular game or platform may provide an additional notice where its data practices differ from this general Policy.
 
-Information Collection and Use
+1. SCOPE
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+This Policy applies to the games and other Services published by CTT Production, including the titles linked from https://cttproduction.github.io/. It does not govern third-party websites, app stores, advertisements, or services that we do not control.
 
-The app does use third-party services that may collect information used to identify you.
+2. INFORMATION THAT MAY BE COLLECTED
 
-Link to the privacy policy of third-party service providers used by the app
+Depending on the game, device, region, privacy choices, and features you use, we and our service providers or advertising partners may process:
 
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Unity
-Log Data
+• Device and technical information: device type and model, operating system and version, language, time zone, screen settings, app version, mobile carrier, browser type, network connection type, and similar technical information.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+• Identifiers: IP address, advertising identifiers such as the Android Advertising ID, app-instance identifiers, device or vendor identifiers, and identifiers assigned by an advertising, analytics, or platform provider. Availability of these identifiers depends on your device settings, permissions, and applicable law.
 
-Cookies
+• Approximate location: a general location, such as country, region, or city, inferred from an IP address or device settings. We do not intentionally request precise GPS location unless a specific feature clearly asks for it and the required permission is obtained.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+• Gameplay and usage data: game progress, session time, levels, in-game actions and events, feature interactions, settings, ad impressions, clicks, rewarded-ad completion, purchases or purchase status, and referring or exit information.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+• Diagnostics and security data: crash reports, error logs, performance data, timestamps, and information used to detect fraud, invalid traffic, abuse, or security incidents.
 
-Service Providers
+• Information you provide: information included in an email, support request, review, survey, or other communication with us, such as your email address and message. Please do not send sensitive personal information.
 
-We may employ third-party companies and individuals due to the following reasons:
+• Purchase information: an app store or payment provider may process your payment details. We generally receive transaction status, product purchased, country, and a transaction or receipt identifier, rather than your full payment-card details.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Some data is collected automatically by SDKs integrated into the Services. CTT Production may receive only aggregated reports or limited event-level information from those providers; the provider may separately process additional information under its own privacy policy.
 
-Security
+3. HOW WE USE INFORMATION
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We may use information to:
 
-Links to Other Sites
+• operate, maintain, personalize, and improve the Services;
+• save progress and provide requested game functions;
+• serve contextual or personalized advertising, where permitted;
+• select, deliver, measure, limit, and report advertisements;
+• provide rewarded ads and confirm that a reward should be granted;
+• analyze gameplay, engagement, retention, and technical performance;
+• diagnose crashes and fix errors;
+• prevent fraud, cheating, abuse, and invalid advertising activity;
+• respond to support requests and communicate about the Services;
+• comply with legal obligations and enforce our terms; and
+• protect users, CTT Production, and third parties.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Where applicable law requires a legal basis, processing may be based on your consent, performance of a contract with you, compliance with law, or our legitimate interests in operating, securing, supporting, and improving the Services. You may withdraw consent at any time through the available in-app privacy controls or by contacting us. Withdrawal does not affect processing that was lawful before withdrawal.
 
-Children’s Privacy
+4. ADVERTISING AND ADMOB MEDIATION
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Our Services are generally free and may be supported by advertising. We use Google AdMob as an advertising platform and mediator. Mediation allows an ad request to be offered to multiple advertising sources so that an eligible source can provide an ad. As a result, Google or a third-party mediated ad network may receive an ad request and process information from your device even when that network does not ultimately display the ad.
 
-Changes to This Privacy Policy
+The advertising information may include IP address, advertising or app identifiers, approximate location, device and app information, consent signals, ad request details, ad impressions and interactions, and fraud-prevention data. Advertising partners may use this information to deliver ads, measure performance, attribute installs or actions, cap ad frequency, detect invalid activity, and, where you have consented or the law otherwise permits, personalize ads or build advertising profiles.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Our currently integrated or available advertising and mediation technologies include:
 
-This policy is effective as of 2021-12-16
+• Google AdMob / Google Mobile Ads SDK — our primary ad platform and mediator. Google may serve its own demand and route ad requests to other ad sources.
+  Privacy Policy: https://policies.google.com/privacy
+  How Google uses information from sites or apps: https://policies.google.com/technologies/partner-sites
+  Ad controls: https://myadcenter.google.com/
 
-Contact Us
+• Liftoff Monetize (formerly Vungle) — a mediated advertising network and SDK adapter that may deliver, personalize, and measure ads and help prevent advertising fraud.
+  Privacy Policy: https://liftoff.ai/privacy-policy/
+  Opt-out information: https://liftoff.ai/opt-out/
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at cttproductionpvtltd@gmail.com.
+• Unity Ads / Unity LevelPlay technologies — a mediated advertising provider and SDK adapter that may deliver and measure ads, perform attribution, and detect fraud.
+  Game Player and App User Privacy Policy: https://unity.com/legal/game-player-and-app-user-privacy-policy
+  Privacy choices: https://unity.com/legal/do-not-sell-my-personal-information
+
+• Other mediated ad sources and ad-technology providers — we may add, remove, or enable additional adapters or bidding partners through AdMob. The provider selected can vary by game, country, device, ad format, availability, and mediation configuration. Google describes AdMob mediation and maintains information about eligible ad sources and ad-technology partners here:
+  AdMob mediation: https://support.google.com/admob/answer/13411971
+  Ad technology partners: https://support.google.com/admob/answer/9012903
+
+An SDK being present or available does not necessarily mean it receives data on every ad request. Each provider controls its own processing under its privacy policy. The current consent message shown in a game, where applicable, provides the most relevant vendor and purpose information for that user and region.
+
+5. ANALYTICS, PLATFORM, AND TECHNICAL SERVICES
+
+Our Services may also use:
+
+• Google Play services for app distribution, licensing, platform functions, and related services: https://policies.google.com/privacy
+
+• Google Analytics for Firebase and other Firebase services for analytics, diagnostics, app configuration, and service operation: https://firebase.google.com/support/privacy
+
+• App stores, browser-game platforms, hosting providers, and technical service providers needed to distribute, host, secure, analyze, or support the Services.
+
+These providers may collect information directly from your device and process it under their own terms and privacy policies.
+
+6. PERSONALIZED ADS AND YOUR CHOICES
+
+Our apps use a GDPR consent flow for users in the European Economic Area, United Kingdom, Switzerland, and other applicable regions. Where required, we or our partners ask for consent before using information for personalized advertising or related storage and access. If you decline, you may still receive ads, but they should be contextual or non-personalized. Such ads can still use information such as the game being used, approximate location, device type, and fraud-prevention signals. Declining personalized ads does not necessarily reduce the number of ads.
+
+Depending on your game and region, you may be able to review or change your choice from an in-game "Privacy," "Privacy Settings," "Manage Consent," or similar control. You can also:
+
+• reset or delete your device's advertising ID, or limit ad personalization, in Android device settings;
+• manage Google advertising preferences at https://myadcenter.google.com/;
+• use the privacy or opt-out tools offered by Liftoff, Unity, and other providers; and
+• contact us using the details below.
+
+The exact device-setting names vary by device and operating-system version. Resetting an identifier or reinstalling a game may require you to make your privacy choice again.
+
+7. WHEN INFORMATION IS SHARED
+
+Information may be shared with or processed by:
+
+• advertising networks, bidders, exchanges, mediators, measurement providers, and their vendors;
+• analytics, crash-reporting, hosting, security, customer-support, and other service providers;
+• app stores and game-distribution platforms;
+• professional advisers and authorities where reasonably necessary to comply with law, protect rights or safety, investigate fraud or abuse, or respond to lawful requests; and
+• a successor or participant in a merger, acquisition, financing, reorganization, sale of assets, or similar business transaction, subject to appropriate protections.
+
+We do not sell personal information for money. However, some privacy laws define "sale," "sharing," or "targeted advertising" broadly enough to include certain disclosures to advertising partners. Where those laws apply, you may have the right to opt out as described in Sections 6 and 11.
+
+8. DATA RETENTION
+
+We retain information only for as long as reasonably necessary for the purposes described in this Policy, including providing the Services, maintaining business and security records, resolving disputes, and meeting legal obligations. Retention periods vary based on the type of data and the reason it is processed. We may retain aggregated or de-identified information that no longer identifies you. Third-party providers determine their own retention periods under their policies.
+
+9. SECURITY
+
+We use reasonable administrative, technical, and organizational safeguards designed to protect information. No method of electronic storage or transmission is completely secure, so we cannot guarantee absolute security.
+
+10. INTERNATIONAL DATA TRANSFERS
+
+CTT Production is based in India, and our providers operate globally. Information may therefore be processed in India, the United States, or other countries whose data-protection laws may differ from those where you live. Where required, the relevant party uses recognized safeguards for international transfers.
+
+11. YOUR PRIVACY RIGHTS
+
+Depending on where you live, you may have rights to request access to, correction of, deletion of, or a copy of your personal information; object to or restrict certain processing; withdraw consent; opt out of targeted advertising, sale, or sharing; and appeal a denied request or complain to a data-protection authority.
+
+To submit a request relating to information controlled by CTT Production, email cttproductionpvtltd@gmail.com with the subject "Privacy Request" and identify the game concerned. We may need to verify your request. Because we generally do not maintain user accounts and much advertising data is held by third-party providers under provider-specific identifiers, we may be unable to identify particular data without relevant device, app-instance, transaction, or support information. Please do not email us a copy of an identity document unless we specifically and lawfully request it.
+
+For data controlled by Google, Liftoff, Unity, an app store, or another partner, submit a request through that provider's privacy tools or contact information. Authorized agents may submit requests where applicable law permits, subject to verification.
+
+12. CHILDREN'S PRIVACY
+
+Our Services are intended for a general audience and are not directed to children under 13. We do not knowingly collect personal information directly from a child under 13. We also do not knowingly use a child's personal information for personalized advertising.
+
+In a country where a higher age is required for a person to consent to data processing, users below that age should use the Services only with authorization from a parent or legal guardian and as permitted by applicable law. Our games may still be visible to younger users through an app store or shared device; that availability does not mean the Services are directed to children.
+
+If we learn that a child provided personal information directly to us contrary to this section, we will take reasonable steps to delete it. A parent or guardian who believes a child has provided information to us should email cttproductionpvtltd@gmail.com with the game title and enough detail for us to investigate. Requests concerning data held by an advertising or platform provider may also need to be directed to that provider.
+
+13. THIRD-PARTY LINKS AND PLATFORMS
+
+The Services may contain advertisements or links to third-party sites, stores, or services. We do not control their content or privacy practices. Review the third party's privacy policy before providing information. Browser versions of our games hosted by third-party platforms may also be subject to that platform's privacy policy and consent controls.
+
+14. CHANGES TO THIS POLICY
+
+We may update this Policy to reflect changes to our Services, SDKs, legal requirements, or business practices. We will post the revised Policy at this location and update the "Last updated" date. If required by law, we will provide additional notice or request consent.
+
+15. CONTACT US
+
+For questions, privacy requests, or concerns, contact:
+
+CTT Production
+India
+Email: cttproductionpvtltd@gmail.com
+
+Please include the name of the relevant game or Service in your message.
