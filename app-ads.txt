@@ -9195,3 +9195,4 @@ vidoomy.com, 8953515, RESELLER
 zetaglobal.net, 525, RESELLER
 media.net, 8cusc3uj7, RESELLER
 themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
+vungle.com, 6a8fd49083128bdc1e090173, DIRECT, c107d686becd2d77
